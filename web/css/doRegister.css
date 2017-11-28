@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.welcome{
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    right: 30%;
+    top: 20%;
+    font-size: 20px;
+}
+.welcome a{
+    text-decoration: none;
+    color: cadetblue;
+}

@@ -1,0 +1,12 @@
+.dologin{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    right:30%;
+    top: 20%;
+}
+.dologin a{
+    text-decoration: none;
+    font-size: 20px;
+    color: cadetblue;
+}

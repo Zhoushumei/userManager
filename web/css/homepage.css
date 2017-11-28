@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../imgs/timg.jpg");
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei UI";
+    font-size: 30px;
+    color: cadetblue;
+
+}
+.main{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    right:15%;
+    top: 30%;
+}

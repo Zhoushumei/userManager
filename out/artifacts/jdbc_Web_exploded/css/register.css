@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.regForm{
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    right: 30%;
+    top: 20%;
+}
